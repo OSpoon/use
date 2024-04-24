@@ -1,1 +1,4 @@
-theme: minima
+title: USE
+description: The tools I’m using
+show_downloads: true
+theme: jekyll-theme-architect
