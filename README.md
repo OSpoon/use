@@ -8,6 +8,7 @@ The tools I'm using
 |------|-------------|
 |[degit](https://www.npmjs.com/package/degit)|Copy git repository|
 |[n](https://www.npmjs.com/package/n)|Node.js Versions manager|
+|[ni](https://www.npmjs.com/package/@antfu/ni)|Adaptive packet manager|
 |[nrm](https://www.npmjs.com/package/nrm)|NPM registry manager|
 |[nucm](https://www.npmjs.com/package/nucm)|NPM User Manager|
 |[cross-env](https://www.npmjs.com/package/cross-env)|Set environment variables|
