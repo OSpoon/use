@@ -23,3 +23,5 @@ The tools I'm using
 |[docker-desktop](https://www.docker.com/products/docker-desktop/)|containerization software for developers|Windows/macOS/Linux|
 |[GitHub Desktop](https://desktop.github.com/)|Graphical git client|Windows/macOS|
 |[SourceTree](https://www.sourcetreeapp.com/)|Graphical git client|Windows/macOS|
+|[Gifox](https://gifox.app/)|The best GIF recording app|macOS|
+|[snipaste](https://www.snipaste.com/index.html)|Snip & Paste|Windows/macOS/Linux|
