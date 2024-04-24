@@ -1,5 +1,5 @@
 ## NPM PKG
-> Inspect installed package：`npm list -g --depth 0`
+Inspect installed package：`npm list -g --depth 0`
 
 | Link | Description |
 |------|-------------|
