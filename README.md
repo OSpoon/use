@@ -19,4 +19,5 @@ The tools I'm using
 | Link | Description | Platform |
 |------|-------------|----------|
 |[utools](https://www.u.tools/)|Efficiency tool|Windows/macOS/UOS,Ubuntu,Deepin|
-|[nvm-desktop](https://github.com/1111mp/nvm-desktop)|Node Version Manager Desktop|Windows/macOS|
+|[nvm-desktop](https://github.com/1111mp/nvm-desktop)|Node Version Manager Desktop|Windows/macOS/Linux|
+|[docker-desktop](https://www.docker.com/products/docker-desktop/)|containerization software for developers|Windows/macOS/Linux|
