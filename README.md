@@ -2,7 +2,7 @@
 The tools I'm using
 
 ## NPM PKG
-> Installed package：`npm list -g --depth 0`
+> Inspect installed package：`npm list -g --depth 0`
 
 | Link | Description |
 |------|-------------|
