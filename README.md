@@ -1,6 +1,3 @@
-# USE
-The tools I'm using
-
 ## NPM PKG
 > Inspect installed package：`npm list -g --depth 0`
 
