@@ -1,4 +1,4 @@
-# use
+# USE
 The tools I'm using
 
 ## NPM PKG
