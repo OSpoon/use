@@ -21,3 +21,5 @@ The tools I'm using
 |[utools](https://www.u.tools/)|Efficiency tool|Windows/macOS/UOS,Ubuntu,Deepin|
 |[nvm-desktop](https://github.com/1111mp/nvm-desktop)|Node Version Manager Desktop|Windows/macOS/Linux|
 |[docker-desktop](https://www.docker.com/products/docker-desktop/)|containerization software for developers|Windows/macOS/Linux|
+|[GitHub Desktop](https://desktop.github.com/)|Graphical git client|Windows/macOS|
+|[SourceTree](https://www.sourcetreeapp.com/)|Graphical git client|Windows/macOS|
