@@ -1,3 +1,11 @@
+## Online website
+
+| WebIDE | Regular | Sketch | Transform | QA |
+|------|-------------|----------|----------|----------|
+|[Stackblitz](https://stackblitz.com/)|[Regex101](https://regex101.com/)|[Excalidraw](https://board.dooring.vip/)|[Transform](https://transform.tools/)|[ChatGPT](https://chat.openai.com/)|
+|[Codesandbox](https://codesandbox.io/)|[Regulex](https://jex.im/regulex/)| | |[通义千问](https://tongyi.aliyun.com/qianwen/)|
+|[1024code](https://1024code.com/)| | | |[智谱清言](https://chatglm.cn/main/alltoolsdetail)|
+
 ## NPM PKG
 Inspect installed package：`npm list -g --depth 0`
 
@@ -24,11 +32,3 @@ Inspect installed package：`npm list -g --depth 0`
 |[Gifox](https://gifox.app/)|The best GIF recording app|macOS|
 |[snipaste](https://www.snipaste.com/index.html)|Snip & Paste|Windows/macOS/Linux|
 |[FinalShell](https://www.hostbuf.com/c/131.html)|Remote shell tool|Windows/macOS/Linux|
-
-## Online website
-
-| WebIDE | Regular | Sketch | Transform | QA |
-|------|-------------|----------|----------|----------|
-|[Stackblitz](https://stackblitz.com/)|[Regex101](https://regex101.com/)|[Excalidraw](https://board.dooring.vip/)|[Transform](https://transform.tools/)|[ChatGPT](https://chat.openai.com/)|
-|[Codesandbox](https://codesandbox.io/)|[Regulex](https://jex.im/regulex/)| | |[通义千问](https://tongyi.aliyun.com/qianwen/)|
-|[1024code](https://1024code.com/)| | | |[智谱清言](https://chatglm.cn/main/alltoolsdetail)|
