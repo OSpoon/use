@@ -1,29 +1,69 @@
 ## Online website
 
-### WebIDE
-1. [Stackblitz](https://stackblitz.com/)
-2. [Codesandbox](https://codesandbox.io/)
-3. [1024code](https://1024code.com/)
-
-### Regular
-1. [Regex101](https://regex101.com/)
-2. [Regulex](https://jex.im/regulex/)
-
-###  Sketch
-1. [Excalidraw](https://board.dooring.vip/)
-
-### Transform
-1. [Transform](https://transform.tools/)
-
-### Deploy
-1. [vercel](https://vercel.com)
-2. [fly](https://fly.io/)
-3. [netlify](https://www.netlify.com/)
-
-### QA
-1. [ChatGPT](https://chat.openai.com/)
-2. [通义千问](https://tongyi.aliyun.com/qianwen/)
-3. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+      <td><strong>WebIDE</strong></td>
+      <td>
+          <a target="_blank" href="https://stackblitz.com/">Stackblitz</a>
+      </td>
+      <td>
+          <a target="_blank" href="https://codesandbox.io/">Codesandbox</a>
+      </td>
+      <td>
+          <a target="_blank" href="https://1024code.com/">1024code</a>
+      </td>
+  </tr>
+  <tr>
+      <td><strong>Regular</strong></td>
+      <td>
+          <a target="_blank" href="https://regex101.com/">Regex101.com</a>
+      </td>
+      <td>
+          <a target="_blank" href="https://jex.im/regulex/">Regulex</a>
+      </td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><strong>Sketch</strong></td>
+      <td>
+          <a target="_blank" href="https://board.dooring.vip/">Excalidraw</a>
+      </td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><strong>Transform</strong></td>
+      <td>
+          <a target="_blank" href="https://transform.tools/">Transform</a>
+      </td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><strong>Deploy</strong></td>
+      <td>
+          <a target="_blank" href="https://vercel.com">vercel</a>
+      </td>
+      <td>
+          <a target="_blank" href="https://fly.io/">fly</a>
+      </td>
+      <td>
+          <a target="_blank" href="https://www.netlify.com/">netlify</a>
+      </td>
+  </tr>
+  <tr>
+      <td><strong>QA</strong></td>
+      <td>
+          <a target="_blank" href="https://chat.openai.com/">ChatGPT</a>
+      </td>
+      <td>
+          <a target="_blank" href="https://tongyi.aliyun.com/qianwen/">通义千问</a>
+      </td>
+      <td>
+          <a target="_blank" href="https://chatglm.cn/main/alltoolsdetail">智谱清言</a>
+      </td>
+  </tr>
+</table>
 
 ## NPM PKG
 Inspect installed package：`npm list -g --depth 0`
