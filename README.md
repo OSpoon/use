@@ -91,3 +91,4 @@ Inspect installed package：`npm list -g --depth 0`
 |[Gifox](https://gifox.app/)|The best GIF recording app|macOS|
 |[snipaste](https://www.snipaste.com/index.html)|Snip & Paste|Windows/macOS/Linux|
 |[FinalShell](https://www.hostbuf.com/c/131.html)|Remote shell tool|Windows/macOS/Linux|
+|[Rectangle](https://rectangleapp.com/)|Window management|macOS|
