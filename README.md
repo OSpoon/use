@@ -1,10 +1,29 @@
 ## Online website
 
-| WebIDE | Regular | Sketch | Transform | QA |
-|------|-------------|----------|----------|----------|
-|[Stackblitz](https://stackblitz.com/)|[Regex101](https://regex101.com/)|[Excalidraw](https://board.dooring.vip/)|[Transform](https://transform.tools/)|[ChatGPT](https://chat.openai.com/)|
-|[Codesandbox](https://codesandbox.io/)|[Regulex](https://jex.im/regulex/)| | |[通义千问](https://tongyi.aliyun.com/qianwen/)|
-|[1024code](https://1024code.com/)| | | |[智谱清言](https://chatglm.cn/main/alltoolsdetail)|
+### WebIDE
+1. [Stackblitz](https://stackblitz.com/)
+2. [Codesandbox](https://codesandbox.io/)
+3. [1024code](https://1024code.com/)
+
+### Regular
+1. [Regex101](https://regex101.com/)
+2. [Regulex](https://jex.im/regulex/)
+
+###  Sketch
+1. [Excalidraw](https://board.dooring.vip/)
+
+### Transform
+1. [Transform](https://transform.tools/)
+
+### Deploy
+1. [vercel](https://vercel.com)
+2. [fly](https://fly.io/)
+3. [netlify](https://www.netlify.com/)
+
+### QA
+1. [ChatGPT](https://chat.openai.com/)
+2. [通义千问](https://tongyi.aliyun.com/qianwen/)
+3. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
 
 ## NPM PKG
 Inspect installed package：`npm list -g --depth 0`
