@@ -101,3 +101,4 @@ Inspect installed package：`npm list -g --depth 0`
 |[FinalShell](https://www.hostbuf.com/c/131.html)|Remote shell tool|Windows/macOS/Linux|
 |[Rectangle](https://rectangleapp.com/)|Window management|macOS|
 |[Rustdesk](https://rustdesk.com/)|Remote connection|Windows/Ubuntu/Mac/Android|
+|[QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)|screen recorder|macOS|
