@@ -12,9 +12,6 @@
       <td>
           <a target="_blank" href="https://1024code.com/">1024code</a>
       </td> 
-      <td>
-          <a target="_blank" href="https://www.marscode.com/">MarsCode</a>
-      </td>
   </tr>
   <tr>
       <td><strong>Regular</strong></td>
@@ -25,7 +22,6 @@
           <a target="_blank" href="https://jex.im/regulex/">Regulex</a>
       </td>
       <td></td>
-      <td></td>
   </tr>
   <tr>
       <td><strong>Sketch</strong></td>
@@ -34,14 +30,12 @@
       </td>
       <td></td>
       <td></td>
-      <td></td>
   </tr>
   <tr>
       <td><strong>Transform</strong></td>
       <td>
           <a target="_blank" href="https://transform.tools/">Transform</a>
       </td>
-      <td></td>
       <td></td>
       <td></td>
   </tr>
@@ -56,7 +50,6 @@
       <td>
           <a target="_blank" href="https://www.netlify.com/">netlify</a>
       </td>
-      <td></td>
   </tr>
   <tr>
       <td><strong>QA</strong></td>
@@ -69,7 +62,6 @@
       <td>
           <a target="_blank" href="https://chatglm.cn/main/alltoolsdetail">智谱清言</a>
       </td>
-      <td></td>
   </tr>
 </table>
 
@@ -102,3 +94,4 @@ Inspect installed package：`npm list -g --depth 0`
 |[Rectangle](https://rectangleapp.com/)|Window management|macOS|
 |[Rustdesk](https://rustdesk.com/)|Remote connection|Windows/Ubuntu/Mac/Android|
 |[QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)|screen recorder|macOS|
+|[闪电藤](https://sdt.zishu.life/)|文件传输助手|Windows/Mac/iOS/Android|
