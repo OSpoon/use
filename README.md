@@ -4,7 +4,7 @@
 2. Regular: [Regex101.com](https://regex101.com/), [Regulex](https://jex.im/regulex/);
 3. Deploy: [vercel](https://vercel.com), [fly](https://fly.io/), [netlify](https://www.netlify.com/);
 4. AiQA: [ChatGPT](https://chat.openai.com/), [通义千问](https://tongyi.aliyun.com/qianwen/), [智谱清言](https://chatglm.cn/main/alltoolsdetail);
-5. Tools: [Excalidraw](https://board.dooring.vip/), [Transform](https://transform.tools/);
+5. Tools: [Excalidraw](https://board.dooring.vip/), [Transform](https://transform.tools/)，[Squoosh](https://squoosh.app/);
 
 ## NPM PKG
 Inspect installed package：`npm list -g --depth 0`
